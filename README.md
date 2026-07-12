@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **System Design**
 
-- 👨‍💻 All of my projects are available at [www.nnnn.com](www.dineshprajapati.com)
+- 👨‍💻 All of my projects are available at [www.dineshprajapati.com](www.dineshprajapati.com)
 
 - 💬 Ask me about **Database, Visualization, Python (ml/Analytical)/Automation**
 
